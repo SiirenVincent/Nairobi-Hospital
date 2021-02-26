@@ -2,7 +2,9 @@
 
 
 Introduction
-Nairobi Hospital
+
+Nairobi Hospital conduct an hypothyrodism test.
+
 Hypothyrodism is a condition where the body produces little thyroxine. Low thyroxine levels cause problems with development if it occurs when an individual is young. In adults, thyroxine deficiency will lower the metabolic rate, causing weight gain, memory problems, infertility, fatigue, and muscle stiffness.
 
 Objective
